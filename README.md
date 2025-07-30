@@ -40,6 +40,6 @@ It also includes attractive **EDA (Exploratory Data Analysis)** with pastel pink
 1️⃣ **Clone this repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Product-Review-Analyzer.git
+git clone https://github.com/AyushiS309/Product-Review-Analyzer.git
 cd Product-Review-Analyzer
 ```
